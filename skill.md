@@ -234,8 +234,6 @@ The final output should:
 - Maintain coherence  
 - Preserve factual integrity  
 - Reduce detectable uniformity
-
-End of Skill.
 - Preserve factual integrity.
 - Reduce detectable AI uniformity.
 
