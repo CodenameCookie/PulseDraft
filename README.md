@@ -65,7 +65,7 @@ All while maintaining coherence.
 
 ---
 
-## What It Does NOT Do
+## What It Does NOT Do (Ideally)
 
 - It does not fabricate data  
 - It does not inject slang artificially  
