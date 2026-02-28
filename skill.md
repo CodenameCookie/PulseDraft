@@ -160,6 +160,70 @@ The goal is natural human rhythm.
 
 ---
 
+## Good vs Bad Examples
+
+Below are illustrative examples showing how PulseDraft should transform text.
+
+### Example 1: Repetition
+
+**Bad:**  
+The product was very effective because it was very efficient and very reliable. It was very well designed and very easy to use.
+
+**Good:**  
+The product proved effective, with reliable performance and a design that made it easy to use.
+
+**Why:** The bad version repeats “very” and similar adjectives; the good version uses precise language and varied structure.
+
+---
+
+### Example 2: Robotic Transitions
+
+**Bad:**  
+Moreover, the system improves performance. In addition, it reduces cost. Therefore, users benefit overall.
+
+**Good:**  
+The system improves performance while cutting costs, giving users a clear advantage.
+
+**Why:** The bad version uses mechanical transitions; the good version flows naturally without redundant connectors.
+
+---
+
+### Example 3: Burstiness and Rhythm
+
+**Bad:**  
+The launch was successful. It exceeded expectations. It demonstrated strong adoption across markets. It met every target.
+
+**Good:**  
+The launch exceeded expectations, showing strong adoption across markets and meeting every target.
+
+**Why:** Short, repetitive sentences create a monotone rhythm; the good version mixes structures for better flow.
+
+---
+
+### Example 4: Clichés and Filler
+
+**Bad:**  
+In today’s world, there are many challenges that make it hard for companies to innovate and succeed in every market.
+
+**Good:**  
+Companies face structural and competitive hurdles that complicate innovation and market success.
+
+**Why:** The bad version uses “in today’s world” (a cliché) and general phrasing; the good version is specific and direct.
+
+---
+
+### Example 5: Passive vs Active Voice
+
+**Bad:**  
+The report was read by the entire team before the deadline was met.
+
+**Good:**  
+The team read the report before the deadline.
+
+**Why:** Active voice is clearer, stronger, and feels more human.  
+
+---
+
 ## Success Criteria
 
 The final output should:
